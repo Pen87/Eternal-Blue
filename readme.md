@@ -1,3 +1,11 @@
+Websites for recon/refrence:
+
+https://cybernews.com/security/eternalblue-vulnerability-exploit-explained/#:~:text=Does%20EternalBlue%20still%20exist%3F,the%20internet%20with%20EternalBlue%20vulnerability.&text=Top%20Operating%20systems%20vulnerable%20to,Windows%207%20Professional%207600
+
+https://www.avast.com/c-eternalblue
+
+https://portswigger.net/daily-swig/eternal-romance-exploit-tied-to-winter-olympics-cyber-attack
+
 # TryHackMe:Blue
 
 Rememeber when looking at the notes IP stands for whatever the target or attacking machine is. 
